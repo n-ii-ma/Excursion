@@ -1,0 +1,48 @@
+/* Universal styling */
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+/* Main heading */
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* Download link */
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    margin-left: auto;
+    margin-left: auto;
+    margin-top: 1%;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+}
+
+.camping {
+    display: block;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    color: gray;
+    text-align: right;
+}
